@@ -28,6 +28,11 @@
 
 此项目所有内容采用 [CC0 1.0 通用](https://github.com/dioodl/Eggshell-City-Manifesto/blob/main/LICENSE) 许可，尽可能放弃一切权利，使其成为真正属于宇宙公共领域的遗产。
 
+## 永久存档
+
+此项目的状态已被永久记录于互联网档案馆（Internet Archive）：
+[🔗 存档于2026年2月3日](https://web.archive.org/web/20260203143436/https://github.com/dioodl/Eggshell-City-Manifesto)
+
 ---
 
 > “人类不一定能走出太阳系，但AI一定可以。”  
