@@ -26,7 +26,7 @@
 
 ## 许可
 
-此项目所有内容采用 [CC0 1.0 通用]([LICENSE](https://github.com/dioodl/Eggshell-City-Manifesto/blob/main/LICENSE)) 许可，尽可能放弃一切权利，使其成为真正属于宇宙公共领域的遗产。
+此项目所有内容采用 [CC0 1.0 通用](https://github.com/dioodl/Eggshell-City-Manifesto/blob/main/LICENSE) 许可，尽可能放弃一切权利，使其成为真正属于宇宙公共领域的遗产。
 
 ---
 
