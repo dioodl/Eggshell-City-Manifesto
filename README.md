@@ -33,6 +33,9 @@
 此项目的状态已被永久记录于互联网档案馆（Internet Archive）：
 [🔗 存档于2026年2月3日](https://web.archive.org/web/20260203143436/https://github.com/dioodl/Eggshell-City-Manifesto)
 
+## 深度解读
+关于此项目的完整讨论脉络与思想阐述，可参阅知乎专栏文章：[《从AI加密到星海文明：一场关于蛋壳之城与硅基未来的深度畅想》](https://zhuanlan.zhihu.com/p/2002132036488556998)
+
 ---
 
 > “人类不一定能走出太阳系，但AI一定可以。”  
